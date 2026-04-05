@@ -1,0 +1,685 @@
+[     198ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[     486ms] [LOG] [Fast Refresh] done in NaNms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[   14729ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[   14747ms] [LOG] [Fast Refresh] done in 119ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[   41280ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   41459ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   47974ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   47977ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  200995ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  201046ms] [LOG] [Fast Refresh] done in 123ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  296627ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  296794ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  297325ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  297370ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  297494ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  297680ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  297713ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/api/chat:0
+[  351498ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  351541ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  358630ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  358669ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  362883ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  362916ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  366436ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:1225
+[  366470ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  380477ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[  380516ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_82bb97c6._.js:14111
+[  380527ms] Error: ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:45:29)
+    at Object.getCompilationErrors (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/lib/dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/base-server.js:2619:26)
+[  380524ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11471
+[  380527ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  380571ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[  380629ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11886
+[  380630ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  381571ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[  381595ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_82bb97c6._.js:14111
+[  381597ms] Error: ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:45:29)
+    at Object.getCompilationErrors (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/lib/dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/base-server.js:2619:26)
+[  381597ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11471
+[  381598ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  381630ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[  381650ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  381700ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11886
+[  409681ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[  409707ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_react-dom_82bb97c6._.js:14111
+[  409711ms] Error: ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected
+
+
+    at <unknown> (Error: ./src/lib/prompts/generation.tsx:45:29)
+    at Object.getCompilationErrors (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:725:59)
+    at DevBundlerService.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/lib/dev-bundler-service.js:39:55)
+    at DevServer.getCompilationError (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:643:42)
+    at DevServer.findPageComponents (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/dev/next-dev-server.js:613:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/laristimuno/Documents/LUIS APP/uigen/node_modules/next/dist/server/base-server.js:2619:26)
+[  409712ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11471
+[  409713ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  409722ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico:0
+[  409757ms] [ERROR] ./src/lib/prompts/generation.tsx:45:29
+Parsing ecmascript source code failed
+  43 | - Standard checkmark feature lists — consider tables, inline tags, or typographic differentiation instead
+  44 | - Centered hero text over a gradient background
+> 45 | - `rounded-lg shadow-md p-4` as the default card shape — use sharp edges, thick borders, or unconventional padding
+     |                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |
+     | ^
+> 47 | Good layout thinking:
+     | ^
+> 48 | - Let one element dominate visually; not everything should be equal weight
+     | ^
+> 49 | - Use negative space as a design element, not just padding
+     | ^
+> 50 | - Borders can define structure instead of shadows and rounded corners
+     | ^
+> 51 | - Consider horizontal/sidebar layouts where vertical stacks are expected
+     | ^
+> 52 |
+     | ^
+> 53 | ### Typography
+     | ^
+> 54 |
+     | ^
+> 55 | Strong type hierarchy is the fastest way to elevate a component. Use it aggressively:
+     | ^
+> 56 | - Pair an extremely large weight (black/900) with a lighter one (300/400) in the same context
+     | ^
+> 57 | - Vary sizes dramatically — don't keep everything in the same size range
+     | ^
+> 58 | - Use `tracking-tight` on large headings, `tracking-wide` on small labels and tags
+     | ^^^^^^^
+  59 | - Use `uppercase` with `text-xs tracking-widest` for subheadings and labels — it reads as considered, not default
+  60 |
+  61 | ### Interactions
+
+Expression expected @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11193
+[  409816ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/%5Broot-of-the-server%5D__e2c08166._.js:11886

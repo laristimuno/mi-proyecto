@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(open:*)",
+      "mcp__playwright",
+      "mcp__plawright__browser_navigate",
+      "mcp__plawright__browser_take_screenshot",
+      "mcp__plawright__browser_snapshot",
+      "mcp__plawright__browser_type",
+      "mcp__plawright__browser_wait_for",
+      "mcp__plawright__browser_click",
+      "Bash(grep:*)",
+      "mcp__plawright__browser_tabs",
+      "mcp__plawright__browser_run_code"
+    ]
+  }
+}
